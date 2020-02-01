@@ -3637,3 +3637,1178 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.02.01-17.07.01:215][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.02.01-17.07.01:219][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
 [2020.02.01-17.07.01:258][768]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2020.02.01-17.11.17:942][896]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-17.11.17:967][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.11.17:967][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-17.11.17:967][896]PIE: New page: PIE session: Testing (Feb 1, 2020, 7:11:17 AM)
+[2020.02.01-17.11.17:968][896]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.11.17:972][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004493s)
+[2020.02.01-17.11.17:973][896]LogAIModule: Creating AISystem for world Testing
+[2020.02.01-17.11.17:973][896]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2020.02.01-17.11.17:973][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.005785s)
+[2020.02.01-17.11.18:017][896]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.02.01-17.11.18:023][896]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-17.11.18:040][896]LogInit: FAudioDevice initialized.
+[2020.02.01-17.11.18:050][896]LogLoad: Game class is 'Space_GM_C'
+[2020.02.01-17.11.18:051][896]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.02.01-12.11.18
+[2020.02.01-17.11.18:052][896]LogWorld: Bringing up level for play took: 0.001589
+[2020.02.01-17.11.18:052][896]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2020.02.01-17.11.18:054][896]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Testing 0.3
+[2020.02.01-17.11.18:054][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.11.25:481][782]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.11.25:481][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.11.25:482][782]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.11.25:482][782]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-17.11.25:494][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-17.11.25:494][782]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.11.25:544][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.11.25:548][782]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.02.01-17.11.25:587][784]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2020.02.01-17.17.02:469][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.02.01-17.17.02:470][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Testing" FILE="D:/SpaceCoop/SpaceCoop/Saved/Autosaves/Game/Levels/Testing_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.01-17.17.02:700][692]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/Testing_Auto322D4C7F64661B03E7269D89CBEC277B5.tmp' to 'D:/SpaceCoop/SpaceCoop/Saved/Autosaves/Game/Levels/Testing_Auto3.umap'
+[2020.02.01-17.17.02:705][692]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Testing' took 0.281
+[2020.02.01-17.17.02:705][692]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.281
+[2020.02.01-17.17.02:707][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Space_GM] ([1] browsable assets)...
+[2020.02.01-17.17.02:707][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Space_GM]
+[2020.02.01-17.17.02:707][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Space_GM" FILE="D:/SpaceCoop/SpaceCoop/Saved/Autosaves/Game/Blueprints/Space_GM_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.02.01-17.17.02:726][692]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/Space_GM_Auto380E1CCFA4D9C9581516A79BAAAC02CF9.tmp' to 'D:/SpaceCoop/SpaceCoop/Saved/Autosaves/Game/Blueprints/Space_GM_Auto3.uasset'
+[2020.02.01-17.17.02:729][692]LogFileHelpers: Auto-saving content packages took 0.023
+[2020.02.01-17.20.51:609][433]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-17.20.51:636][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.20.51:637][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-17.20.51:637][433]PIE: New page: PIE session: Testing (Feb 1, 2020, 7:20:51 AM)
+[2020.02.01-17.20.51:637][433]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.20.51:641][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003876s)
+[2020.02.01-17.20.51:642][433]LogAIModule: Creating AISystem for world Testing
+[2020.02.01-17.20.51:642][433]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2020.02.01-17.20.51:642][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.005133s)
+[2020.02.01-17.20.51:687][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.02.01-17.20.51:694][433]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-17.20.51:711][433]LogInit: FAudioDevice initialized.
+[2020.02.01-17.20.51:722][433]LogLoad: Game class is 'Space_GM_C'
+[2020.02.01-17.20.51:723][433]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.02.01-12.20.51
+[2020.02.01-17.20.51:724][433]LogWorld: Bringing up level for play took: 0.001614
+[2020.02.01-17.20.51:724][433]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2020.02.01-17.20.51:726][433]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Testing -0.027
+[2020.02.01-17.20.51:727][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.20.58:736][271]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.20.58:736][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.20.58:736][271]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.20.58:737][271]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-17.20.58:767][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-17.20.58:767][271]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.20.58:813][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.20.58:817][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.02.01-17.20.58:836][272]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2020.02.01-17.21.52:219][657]BlueprintLog: New page: Compile BaseAsteriod_BP
+[2020.02.01-17.21.52:471][657]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.02.01-17.21.52:701][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseAsteriod_BP" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/BaseAsteriod_BP.uasset" SILENT=true
+[2020.02.01-17.21.52:726][675]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/BaseAsteriod_BPFC2E93BB4BB56368CE550EB5B3EC98AC.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/BaseAsteriod_BP.uasset'
+[2020.02.01-17.22.08:249][530]BlueprintLog: New page: Compile Asteroid_DetectionBP
+[2020.02.01-17.22.08:503][530]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.02.01-17.22.08:915][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Asteroid_DetectionBP" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/Asteroid_DetectionBP.uasset" SILENT=true
+[2020.02.01-17.22.08:937][574]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/Asteroid_DetectionBPF84A7CC84A6E2CEB868E1BADE1DBAA5B.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/Asteroid_DetectionBP.uasset'
+[2020.02.01-17.23.18:515][896]LogEditorTransaction: Undo Delete current selection
+[2020.02.01-17.24.37:490][739]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/Blueprints/EAsteroidDirection.EAsteroidDirection
+[2020.02.01-17.25.29:925][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EAsteroidDirection" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/EAsteroidDirection.uasset" SILENT=true
+[2020.02.01-17.25.29:930][ 11]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/EAsteroidDirectionC0AA07F84C075376B368869F63A5E68C.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/EAsteroidDirection.uasset'
+[2020.02.01-17.25.55:110][ 13]BlueprintLog: New page: Compile StartScreenUI
+[2020.02.01-17.25.55:160][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.02.01-17.25.55:626][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StartScreenUI" FILE="D:/SpaceCoop/SpaceCoop/Content/UI/StartScreenUI.uasset" SILENT=true
+[2020.02.01-17.25.55:640][ 58]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/StartScreenUI3861692846A00127C4E040BCBBA37007.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/UI/StartScreenUI.uasset'
+[2020.02.01-17.26.03:846][ 39]LogSlate: Took 0.002070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.01-17.26.11:093][908]BlueprintLog: New page: Compile Space_GM
+[2020.02.01-17.26.11:332][908]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.02.01-17.26.11:753][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Space_GM" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/Space_GM.uasset" SILENT=true
+[2020.02.01-17.26.11:772][952]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/Space_GMA352EC5C4C93839B55748493EDC88812.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/Space_GM.uasset'
+[2020.02.01-17.27.21:018][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.02.01-17.27.21:040][254]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/Player_BP04310F8D458C47858F02E68643A923B1.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/Player_BP.uasset'
+[2020.02.01-17.28.03:821][376]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.02.01-17.28.03:821][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Testing" FILE="D:/SpaceCoop/SpaceCoop/Saved/Autosaves/Game/Levels/Testing_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.01-17.28.04:058][376]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/Testing_Auto40FFBF0A6459EEF64FAC171A8583108CF.tmp' to 'D:/SpaceCoop/SpaceCoop/Saved/Autosaves/Game/Levels/Testing_Auto4.umap'
+[2020.02.01-17.28.04:063][376]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Testing' took 0.287
+[2020.02.01-17.28.04:063][376]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.287
+[2020.02.01-17.30.11:712][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.02.01-17.30.11:731][688]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/Player_BP9414EA2042F970B669E481BEE32C6C8E.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/Player_BP.uasset'
+[2020.02.01-17.31.53:919][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Space_GM" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/Space_GM.uasset" SILENT=true
+[2020.02.01-17.31.53:939][924]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/Space_GM0C84517A45E45A4E8F5E96AF939FB1E0.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/Space_GM.uasset'
+[2020.02.01-17.32.06:263][400]BlueprintLog: New page: Compile Space_GM
+[2020.02.01-17.32.06:529][400]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.02.01-17.32.06:940][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Space_GM" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/Space_GM.uasset" SILENT=true
+[2020.02.01-17.32.06:958][443]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/Space_GM742FA27645D8DE06E2F56AA840022BA5.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/Space_GM.uasset'
+[2020.02.01-17.32.18:269][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Space_GM" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/Space_GM.uasset" SILENT=true
+[2020.02.01-17.32.18:286][796]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/Space_GME5D59DE94BA869D8DDD823B3793EF4EE.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/Space_GM.uasset'
+[2020.02.01-17.32.30:528][230]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.02.01-17.32.30:530][230]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.02.01-17.32.55:269][192]BlueprintLog: New page: Compile Space_GM
+[2020.02.01-17.32.55:517][192]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.02.01-17.32.55:911][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Space_GM" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/Space_GM.uasset" SILENT=true
+[2020.02.01-17.32.55:930][233]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/Space_GMA017527A494729A2530D3FACC8BF05DE.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/Space_GM.uasset'
+[2020.02.01-17.33.51:292][835]BlueprintLog: New page: Compile SpaceShip_BP
+[2020.02.01-17.33.51:297][835]LogClass: Warning: Type mismatch in AsteroidVelocityDirection of SpaceShip_BP_C - Previous (BoolProperty) Current(ByteProperty) for package:  FObjectReader
+[2020.02.01-17.33.51:297][835]LogBlueprint: Warning: [Compiler SpaceShip_BP] Can't parse default value 'False' for  . Property: AsteroidVelocityDirection.
+[2020.02.01-17.33.51:538][835]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.02.01-17.33.51:998][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SpaceShip_BP" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/SpaceShip_BP.uasset" SILENT=true
+[2020.02.01-17.33.52:030][880]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/SpaceShip_BP0AA074EA40D1724454FD1B96B18D0759.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/SpaceShip_BP.uasset'
+[2020.02.01-17.34.51:025][912]Cmd: TRANSACTION UNDO
+[2020.02.01-17.34.51:025][912]LogEditorTransaction: Undo Remove Parameter
+[2020.02.01-17.36.03:900][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Space_GM" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/Space_GM.uasset" SILENT=true
+[2020.02.01-17.36.03:932][616]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/Space_GM182F6485463A79C93CDDC494AC1935A7.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/Space_GM.uasset'
+[2020.02.01-17.36.04:337][661]BlueprintLog: New page: Compile Space_GM
+[2020.02.01-17.36.04:578][661]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.02.01-17.38.56:771][197]BlueprintLog: New page: Compile SpaceShip_BP
+[2020.02.01-17.38.57:018][197]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.02.01-17.38.57:395][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SpaceShip_BP" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/SpaceShip_BP.uasset" SILENT=true
+[2020.02.01-17.38.57:451][233]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/SpaceShip_BP8973C9EE43F51024CD4281964A837A7B.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/SpaceShip_BP.uasset'
+[2020.02.01-17.38.59:472][442]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.02.01-17.39.00:479][442]LogSlate: Window 'Save Content' being destroyed
+[2020.02.01-17.39.00:494][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Testing" FILE="D:/SpaceCoop/SpaceCoop/Content/Levels/Testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.01-17.39.00:538][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.02.01-17.39.00:763][442]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/Testing596C57C040177AA3E9B415A0BE8F6E78.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Levels/Testing.umap'
+[2020.02.01-17.39.00:794][442]LogFileHelpers: Saving map 'Testing' took 0.301
+[2020.02.01-17.39.00:799][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/20170105_judy-schmidt-saturn-ring-particles" FILE="D:/SpaceCoop/SpaceCoop/Content/UI/20170105_judy-schmidt-saturn-ring-particles.uasset" SILENT=true
+[2020.02.01-17.39.01:092][442]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/20170105_judy-schmidt-saturn-rinE185D3E741DBC253CDCFB98548069EB0.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/UI/20170105_judy-schmidt-saturn-ring-particles.uasset'
+[2020.02.01-17.39.01:099][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/splash-16by9" FILE="D:/SpaceCoop/SpaceCoop/Content/UI/splash-16by9.uasset" SILENT=true
+[2020.02.01-17.39.01:219][442]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/splash-16by9AE0C83A6424A621A34839DA1FFF8A151.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/UI/splash-16by9.uasset'
+[2020.02.01-17.39.02:529][566]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.02.01-17.39.13:864][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/T_UI_MainMenu" FILE="D:/SpaceCoop/SpaceCoop/Content/UI/T_UI_MainMenu.uasset" SILENT=true
+[2020.02.01-17.39.13:907][730]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/T_UI_MainMenu92D953C3433AD660147394A65841DA38.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/UI/T_UI_MainMenu.uasset'
+[2020.02.01-17.39.14:091][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.02.01-17.39.14:139][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.02.01-17.39.14:182][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.02.01-17.39.14:195][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StartScreenUI" FILE="D:/SpaceCoop/SpaceCoop/Content/UI/StartScreenUI.uasset" SILENT=true
+[2020.02.01-17.39.14:209][730]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/StartScreenUI72DB022C405DE3FE058B4ABEE5910783.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/UI/StartScreenUI.uasset'
+[2020.02.01-17.39.26:495][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/T_UI_SplashScreen" FILE="D:/SpaceCoop/SpaceCoop/Content/UI/T_UI_SplashScreen.uasset" SILENT=true
+[2020.02.01-17.39.26:510][189]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/T_UI_SplashScreenAA62CD114D66863D8CB654AB016F1BAA.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/UI/T_UI_SplashScreen.uasset'
+[2020.02.01-17.39.26:684][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.02.01-17.39.26:732][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.02.01-17.39.26:777][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.02.01-17.39.34:906][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.02.01-17.39.36:206][304]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-17.39.36:229][304]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.39.36:229][304]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.01-17.39.36:230][304]LogPlayLevel: [PlayLevel] Compiling SpaceShip_BP before play...
+[2020.02.01-17.39.36:439][304]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2020.02.01-17.39.36:444][304]LogPlayLevel: [PlayLevel] Compiling StartScreenUI before play...
+[2020.02.01-17.39.36:718][304]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.02.01-17.39.36:718][304]LogPlayLevel: PlayLevel: Blueprint regeneration took 488 ms (3 blueprints)
+[2020.02.01-17.39.36:718][304]PIE: New page: PIE session: Testing (Feb 1, 2020, 7:39:36 AM)
+[2020.02.01-17.39.36:718][304]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.39.36:722][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003926s)
+[2020.02.01-17.39.36:723][304]LogAIModule: Creating AISystem for world Testing
+[2020.02.01-17.39.36:724][304]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2020.02.01-17.39.36:724][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.005189s)
+[2020.02.01-17.39.36:767][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.02.01-17.39.36:774][304]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-17.39.36:793][304]LogInit: FAudioDevice initialized.
+[2020.02.01-17.39.36:800][304]LogLoad: Game class is 'Space_GM_C'
+[2020.02.01-17.39.36:801][304]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.02.01-12.39.36
+[2020.02.01-17.39.36:802][304]LogWorld: Bringing up level for play took: 0.001528
+[2020.02.01-17.39.36:802][304]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2020.02.01-17.39.36:804][304]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Testing 1.053
+[2020.02.01-17.39.36:804][304]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.39.39:875][668]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine Two Interact
+[2020.02.01-17.39.40:992][802]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine Two Interact End
+[2020.02.01-17.39.42:043][928]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine Two Interact
+[2020.02.01-17.39.42:484][981]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine Two Interact End
+[2020.02.01-17.39.42:859][ 26]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine One Interact
+[2020.02.01-17.39.43:310][ 80]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine One Interact End
+[2020.02.01-17.39.43:769][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.39.43:769][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.39.43:769][135]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.39.43:769][135]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-17.39.43:792][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-17.39.43:792][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.39.43:841][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.39.43:846][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.02.01-17.39.43:929][137]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2020.02.01-17.39.45:439][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.40.10:309][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.41.16:988][223]BlueprintLog: New page: Compile SpaceShip_BP
+[2020.02.01-17.41.17:249][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.02.01-17.41.17:820][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SpaceShip_BP" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/SpaceShip_BP.uasset" SILENT=true
+[2020.02.01-17.41.17:853][281]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/SpaceShip_BPF842BEB245D816B25F67FDBDF0FB37A6.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/SpaceShip_BP.uasset'
+[2020.02.01-17.46.31:176][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SpaceShip_BP" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/SpaceShip_BP.uasset" SILENT=true
+[2020.02.01-17.46.31:217][680]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/SpaceShip_BP709ED9AB46202FBFBF590AABE93497EA.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/SpaceShip_BP.uasset'
+[2020.02.01-17.46.33:240][920]BlueprintLog: New page: Compile SpaceShip_BP
+[2020.02.01-17.46.33:491][920]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.02.01-17.46.33:836][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SpaceShip_BP" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/SpaceShip_BP.uasset" SILENT=true
+[2020.02.01-17.46.33:875][950]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/SpaceShip_BPA89D60DF4E53ED42EFF21DA193EE3F6F.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/SpaceShip_BP.uasset'
+[2020.02.01-17.46.43:519][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.02.01-17.46.44:958][ 87]LogSlate: Window 'Save Content' being destroyed
+[2020.02.01-17.46.44:975][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Testing" FILE="D:/SpaceCoop/SpaceCoop/Content/Levels/Testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.01-17.46.45:030][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.02.01-17.46.45:260][ 87]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/TestingDEE96E1546A51C22F3A702953ED878A6.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Levels/Testing.umap'
+[2020.02.01-17.46.45:290][ 87]LogFileHelpers: Saving map 'Testing' took 0.315
+[2020.02.01-17.46.46:041][172]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-17.46.46:064][172]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.46.46:064][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-17.46.46:065][172]PIE: New page: PIE session: Testing (Feb 1, 2020, 7:46:46 AM)
+[2020.02.01-17.46.46:065][172]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.46.46:068][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003818s)
+[2020.02.01-17.46.46:069][172]LogAIModule: Creating AISystem for world Testing
+[2020.02.01-17.46.46:069][172]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2020.02.01-17.46.46:069][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.004825s)
+[2020.02.01-17.46.46:111][172]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.02.01-17.46.46:118][172]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-17.46.46:135][172]LogInit: FAudioDevice initialized.
+[2020.02.01-17.46.46:144][172]LogLoad: Game class is 'Space_GM_C'
+[2020.02.01-17.46.46:145][172]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.02.01-12.46.46
+[2020.02.01-17.46.46:146][172]LogWorld: Bringing up level for play took: 0.001520
+[2020.02.01-17.46.46:146][172]LogOnline: OSS: Creating online subsystem instance for: :Context_94
+[2020.02.01-17.46.46:148][172]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Testing 0.397
+[2020.02.01-17.46.46:148][172]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.46.47:535][333]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-17.46.49:028][512]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.46.49:029][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.46.49:029][512]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.46.49:029][512]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-17.46.49:046][512]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-17.46.49:046][512]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.46.49:095][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.46.49:099][512]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.02.01-17.46.49:137][514]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2020.02.01-17.46.49:443][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.46.58:873][648]BlueprintLog: New page: Compile SpaceShip_BP
+[2020.02.01-17.46.59:118][648]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.02.01-17.46.59:552][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SpaceShip_BP" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/SpaceShip_BP.uasset" SILENT=true
+[2020.02.01-17.46.59:591][683]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/SpaceShip_BPFADFAD2B49E59ADC15DFCA9FBAE31D1F.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/SpaceShip_BP.uasset'
+[2020.02.01-17.47.01:487][895]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-17.47.01:510][895]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.47.01:510][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-17.47.01:510][895]PIE: New page: PIE session: Testing (Feb 1, 2020, 7:47:01 AM)
+[2020.02.01-17.47.01:510][895]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.47.01:514][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003903s)
+[2020.02.01-17.47.01:515][895]LogAIModule: Creating AISystem for world Testing
+[2020.02.01-17.47.01:515][895]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2020.02.01-17.47.01:515][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.004935s)
+[2020.02.01-17.47.01:557][895]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.02.01-17.47.01:564][895]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-17.47.01:582][895]LogInit: FAudioDevice initialized.
+[2020.02.01-17.47.01:591][895]LogLoad: Game class is 'Space_GM_C'
+[2020.02.01-17.47.01:592][895]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.02.01-12.47.01
+[2020.02.01-17.47.01:593][895]LogWorld: Bringing up level for play took: 0.001518
+[2020.02.01-17.47.01:593][895]LogOnline: OSS: Creating online subsystem instance for: :Context_95
+[2020.02.01-17.47.01:595][895]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Testing -0.156
+[2020.02.01-17.47.01:595][895]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.47.03:085][ 69]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-17.47.12:793][227]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-17.47.13:168][272]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-17.47.13:751][342]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-17.47.14:259][403]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-17.47.18:526][915]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-17.47.18:960][967]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.47.18:960][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.47.18:960][967]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.47.18:960][967]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-17.47.18:977][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-17.47.18:977][967]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.47.19:024][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.47.19:028][967]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.02.01-17.47.19:109][969]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2020.02.01-17.47.21:010][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.47.21:076][205]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-17.47.21:100][205]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.47.21:100][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-17.47.21:100][205]PIE: New page: PIE session: Testing (Feb 1, 2020, 7:47:21 AM)
+[2020.02.01-17.47.21:100][205]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.47.21:104][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003893s)
+[2020.02.01-17.47.21:105][205]LogAIModule: Creating AISystem for world Testing
+[2020.02.01-17.47.21:105][205]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2020.02.01-17.47.21:105][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.005065s)
+[2020.02.01-17.47.21:149][205]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.02.01-17.47.21:154][205]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-17.47.21:171][205]LogInit: FAudioDevice initialized.
+[2020.02.01-17.47.21:177][205]LogLoad: Game class is 'Space_GM_C'
+[2020.02.01-17.47.21:178][205]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.02.01-12.47.21
+[2020.02.01-17.47.21:179][205]LogWorld: Bringing up level for play took: 0.001555
+[2020.02.01-17.47.21:179][205]LogOnline: OSS: Creating online subsystem instance for: :Context_96
+[2020.02.01-17.47.21:181][205]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Testing -0.571
+[2020.02.01-17.47.21:181][205]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.47.24:645][615]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-17.47.25:345][699]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-17.47.25:787][752]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.47.25:787][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.47.25:787][752]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.47.25:788][752]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-17.47.25:804][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-17.47.25:804][752]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.47.25:854][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.47.25:858][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.02.01-17.47.25:936][754]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2020.02.01-17.47.26:397][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.48.23:858][662]BlueprintLog: New page: Compile Space_GM
+[2020.02.01-17.48.23:864][662]LogBlueprint: Error: [Compiler SpaceShip_BP] In use pin  Velocity Direction  no longer exists on node  Rotate Asteroid . Please refresh node or break links to remove pin.
+[2020.02.01-17.48.24:118][662]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.02.01-17.48.24:545][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Space_GM" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/Space_GM.uasset" SILENT=true
+[2020.02.01-17.48.24:566][706]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/Space_GM43960AE542A17D7583629884E4EB91F5.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/Space_GM.uasset'
+[2020.02.01-17.49.03:383][303]BlueprintLog: New page: Compile SpaceShip_BP
+[2020.02.01-17.49.03:646][303]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.02.01-17.49.04:090][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SpaceShip_BP" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/SpaceShip_BP.uasset" SILENT=true
+[2020.02.01-17.49.04:126][346]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/SpaceShip_BPAC3BCD124D9FD294C13149A57E3D8F54.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/SpaceShip_BP.uasset'
+[2020.02.01-17.49.12:455][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SpaceShip_BP" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/SpaceShip_BP.uasset" SILENT=true
+[2020.02.01-17.49.12:484][338]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/SpaceShip_BPE58F952C473A22C7BD15A4B7F6D1DABB.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/SpaceShip_BP.uasset'
+[2020.02.01-17.49.13:871][501]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-17.49.13:894][501]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.49.13:895][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-17.49.13:895][501]PIE: New page: PIE session: Testing (Feb 1, 2020, 7:49:13 AM)
+[2020.02.01-17.49.13:895][501]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.49.13:899][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003913s)
+[2020.02.01-17.49.13:900][501]LogAIModule: Creating AISystem for world Testing
+[2020.02.01-17.49.13:900][501]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2020.02.01-17.49.13:900][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.005009s)
+[2020.02.01-17.49.13:944][501]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.02.01-17.49.13:950][501]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-17.49.13:968][501]LogInit: FAudioDevice initialized.
+[2020.02.01-17.49.13:976][501]LogLoad: Game class is 'Space_GM_C'
+[2020.02.01-17.49.13:977][501]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.02.01-12.49.13
+[2020.02.01-17.49.13:978][501]LogWorld: Bringing up level for play took: 0.001574
+[2020.02.01-17.49.13:978][501]LogOnline: OSS: Creating online subsystem instance for: :Context_97
+[2020.02.01-17.49.13:980][501]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Testing 0.229
+[2020.02.01-17.49.13:980][501]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.49.15:774][711]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-17.49.18:358][ 21]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-17.49.18:733][ 66]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-17.49.19:224][125]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-17.49.21:701][422]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.49.21:701][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.49.21:701][422]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.49.21:701][422]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-17.49.21:722][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-17.49.21:722][422]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.49.21:772][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.49.21:776][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.02.01-17.49.21:856][424]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2020.02.01-17.49.22:665][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.49.22:756][532]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-17.49.22:781][532]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.49.22:781][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-17.49.22:781][532]PIE: New page: PIE session: Testing (Feb 1, 2020, 7:49:22 AM)
+[2020.02.01-17.49.22:781][532]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.49.22:785][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004002s)
+[2020.02.01-17.49.22:786][532]LogAIModule: Creating AISystem for world Testing
+[2020.02.01-17.49.22:787][532]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2020.02.01-17.49.22:787][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.005320s)
+[2020.02.01-17.49.22:827][532]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.02.01-17.49.22:833][532]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-17.49.22:850][532]LogInit: FAudioDevice initialized.
+[2020.02.01-17.49.22:856][532]LogLoad: Game class is 'Space_GM_C'
+[2020.02.01-17.49.22:857][532]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.02.01-12.49.22
+[2020.02.01-17.49.22:858][532]LogWorld: Bringing up level for play took: 0.001594
+[2020.02.01-17.49.22:858][532]LogOnline: OSS: Creating online subsystem instance for: :Context_98
+[2020.02.01-17.49.22:860][532]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Testing -0.891
+[2020.02.01-17.49.22:860][532]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.49.31:375][548]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-17.49.32:701][707]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.49.32:702][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.49.32:702][707]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.49.32:702][707]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-17.49.32:712][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-17.49.32:712][707]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.49.32:760][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.49.32:764][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.02.01-17.49.32:844][709]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2020.02.01-17.49.33:845][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.49.33:936][840]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-17.49.33:959][840]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.49.33:959][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-17.49.33:959][840]PIE: New page: PIE session: Testing (Feb 1, 2020, 7:49:33 AM)
+[2020.02.01-17.49.33:959][840]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.49.33:963][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004175s)
+[2020.02.01-17.49.33:964][840]LogAIModule: Creating AISystem for world Testing
+[2020.02.01-17.49.33:964][840]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2020.02.01-17.49.33:964][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.005358s)
+[2020.02.01-17.49.34:007][840]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.02.01-17.49.34:013][840]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-17.49.34:030][840]LogInit: FAudioDevice initialized.
+[2020.02.01-17.49.34:041][840]LogLoad: Game class is 'Space_GM_C'
+[2020.02.01-17.49.34:042][840]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.02.01-12.49.34
+[2020.02.01-17.49.34:043][840]LogWorld: Bringing up level for play took: 0.001562
+[2020.02.01-17.49.34:043][840]LogOnline: OSS: Creating online subsystem instance for: :Context_99
+[2020.02.01-17.49.34:045][840]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Testing 0.294
+[2020.02.01-17.49.34:045][840]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.49.35:230][977]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-17.49.35:897][ 57]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-17.49.36:514][131]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-17.49.42:707][874]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.49.42:707][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.49.42:707][874]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.49.42:707][874]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-17.49.42:719][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-17.49.42:719][874]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.49.42:765][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.49.42:769][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.02.01-17.49.42:849][876]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2020.02.01-17.49.43:492][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.49.43:574][963]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-17.49.43:600][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.49.43:600][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-17.49.43:600][963]PIE: New page: PIE session: Testing (Feb 1, 2020, 7:49:43 AM)
+[2020.02.01-17.49.43:600][963]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.49.43:604][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003865s)
+[2020.02.01-17.49.43:605][963]LogAIModule: Creating AISystem for world Testing
+[2020.02.01-17.49.43:605][963]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2020.02.01-17.49.43:605][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.004963s)
+[2020.02.01-17.49.43:648][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.02.01-17.49.43:654][963]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-17.49.43:671][963]LogInit: FAudioDevice initialized.
+[2020.02.01-17.49.43:679][963]LogLoad: Game class is 'Space_GM_C'
+[2020.02.01-17.49.43:680][963]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.02.01-12.49.43
+[2020.02.01-17.49.43:681][963]LogWorld: Bringing up level for play took: 0.001508
+[2020.02.01-17.49.43:681][963]LogOnline: OSS: Creating online subsystem instance for: :Context_100
+[2020.02.01-17.49.43:683][963]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Testing -0.068
+[2020.02.01-17.49.43:683][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.49.45:151][134]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-17.49.51:719][922]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.49.51:719][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.49.51:719][922]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.49.51:720][922]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-17.49.51:732][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-17.49.51:732][922]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.49.51:783][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.49.51:787][922]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.02.01-17.49.51:871][924]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2020.02.01-17.49.52:580][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.49.52:663][ 19]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-17.49.52:688][ 19]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.49.52:688][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-17.49.52:688][ 19]PIE: New page: PIE session: Testing (Feb 1, 2020, 7:49:52 AM)
+[2020.02.01-17.49.52:689][ 19]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.49.52:693][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003922s)
+[2020.02.01-17.49.52:693][ 19]LogAIModule: Creating AISystem for world Testing
+[2020.02.01-17.49.52:693][ 19]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2020.02.01-17.49.52:694][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.004895s)
+[2020.02.01-17.49.52:735][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.02.01-17.49.52:741][ 19]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-17.49.52:760][ 19]LogInit: FAudioDevice initialized.
+[2020.02.01-17.49.52:772][ 19]LogLoad: Game class is 'Space_GM_C'
+[2020.02.01-17.49.52:773][ 19]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.02.01-12.49.52
+[2020.02.01-17.49.52:774][ 19]LogWorld: Bringing up level for play took: 0.001672
+[2020.02.01-17.49.52:774][ 19]LogOnline: OSS: Creating online subsystem instance for: :Context_101
+[2020.02.01-17.49.52:776][ 19]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Testing 1.025
+[2020.02.01-17.49.52:776][ 19]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.49.54:928][272]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-17.49.56:545][466]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-17.50.03:030][244]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.50.03:030][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.50.03:030][244]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-17.50.03:030][244]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-17.50.03:040][244]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-17.50.03:040][244]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-17.50.03:087][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.50.03:091][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.02.01-17.50.03:171][246]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2020.02.01-17.50.05:799][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.50.39:936][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseAsteriod_BP" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/BaseAsteriod_BP.uasset" SILENT=true
+[2020.02.01-17.50.39:952][652]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/BaseAsteriod_BPB95636974DAF0F11F990D5A089FCCD9F.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/BaseAsteriod_BP.uasset'
+[2020.02.01-17.50.51:990][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SpaceShip_BP" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/SpaceShip_BP.uasset" SILENT=true
+[2020.02.01-17.50.52:022][ 93]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/SpaceShip_BP449CF5AE4B38B6B38FDED284F2B4AA1D.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/SpaceShip_BP.uasset'
+[2020.02.01-17.53.17:199][495]LogEditorViewport: Clicking on Actor (LMB): BaseAsteriod_BP_C (BaseAsteriod_BP)
+[2020.02.01-17.53.21:933][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.57.53:633][527]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.02.01-17.57.53:634][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Testing" FILE="D:/SpaceCoop/SpaceCoop/Saved/Autosaves/Game/Levels/Testing_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.01-17.57.53:860][527]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/Testing_Auto55425FE0D4612F02DC6476BB63F5D0AC3.tmp' to 'D:/SpaceCoop/SpaceCoop/Saved/Autosaves/Game/Levels/Testing_Auto5.umap'
+[2020.02.01-17.57.53:866][527]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Testing' took 0.277
+[2020.02.01-17.57.53:866][527]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.277
+[2020.02.01-17.57.53:867][527]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Space_GM] ([1] browsable assets)...
+[2020.02.01-17.57.53:867][527]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Space_GM]
+[2020.02.01-17.57.53:867][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Space_GM" FILE="D:/SpaceCoop/SpaceCoop/Saved/Autosaves/Game/Blueprints/Space_GM_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.02.01-17.57.53:891][527]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/Space_GM_Auto5FF6AE68F4CBF36E411F0D0898D508195.tmp' to 'D:/SpaceCoop/SpaceCoop/Saved/Autosaves/Game/Blueprints/Space_GM_Auto5.uasset'
+[2020.02.01-17.57.53:892][527]LogFileHelpers: Auto-saving content packages took 0.025
+[2020.02.01-18.01.29:376][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-18.01.29:467][360]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-18.01.29:493][360]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.01.29:493][360]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.01-18.01.29:497][360]LogPlayLevel: [PlayLevel] Compiling Space_GM before play...
+[2020.02.01-18.01.29:767][360]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.02.01-18.01.29:767][360]LogPlayLevel: PlayLevel: Blueprint regeneration took 273 ms (1 blueprints)
+[2020.02.01-18.01.29:767][360]PIE: New page: PIE session: Testing (Feb 1, 2020, 8:01:29 AM)
+[2020.02.01-18.01.29:767][360]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-18.01.29:771][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003807s)
+[2020.02.01-18.01.29:772][360]LogAIModule: Creating AISystem for world Testing
+[2020.02.01-18.01.29:772][360]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2020.02.01-18.01.29:772][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.004935s)
+[2020.02.01-18.01.29:817][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.02.01-18.01.29:823][360]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-18.01.29:840][360]LogInit: FAudioDevice initialized.
+[2020.02.01-18.01.29:848][360]LogLoad: Game class is 'Space_GM_C'
+[2020.02.01-18.01.29:850][360]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.02.01-13.01.29
+[2020.02.01-18.01.29:851][360]LogWorld: Bringing up level for play took: 0.001578
+[2020.02.01-18.01.29:851][360]LogOnline: OSS: Creating online subsystem instance for: :Context_102
+[2020.02.01-18.01.29:853][360]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Testing 0.104
+[2020.02.01-18.01.29:853][360]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.01.31:903][593]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.01.32:386][651]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.01.32:761][696]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.01.33:220][751]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.01.33:611][798]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-18.01.34:861][948]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-18.01.37:154][223]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.01.37:154][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.01.37:154][223]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-18.01.37:154][223]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-18.01.37:175][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-18.01.37:175][223]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.01.37:223][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.01.37:228][223]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.02.01-18.01.37:311][225]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2020.02.01-18.01.37:962][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-18.01.38:053][314]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-18.01.38:078][314]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.01.38:078][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-18.01.38:078][314]PIE: New page: PIE session: Testing (Feb 1, 2020, 8:01:38 AM)
+[2020.02.01-18.01.38:078][314]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-18.01.38:082][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003922s)
+[2020.02.01-18.01.38:083][314]LogAIModule: Creating AISystem for world Testing
+[2020.02.01-18.01.38:083][314]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2020.02.01-18.01.38:083][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.005112s)
+[2020.02.01-18.01.38:128][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.02.01-18.01.38:134][314]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-18.01.38:149][314]LogInit: FAudioDevice initialized.
+[2020.02.01-18.01.38:155][314]LogLoad: Game class is 'Space_GM_C'
+[2020.02.01-18.01.38:156][314]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.02.01-13.01.38
+[2020.02.01-18.01.38:158][314]LogWorld: Bringing up level for play took: 0.001572
+[2020.02.01-18.01.38:158][314]LogOnline: OSS: Creating online subsystem instance for: :Context_103
+[2020.02.01-18.01.38:160][314]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Testing 0.411
+[2020.02.01-18.01.38:160][314]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.01.38:592][361]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.01.39:301][446]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.01.40:885][636]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.01.41:718][736]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.01.42:184][792]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-18.01.43:028][893]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.01.43:028][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.01.43:028][893]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-18.01.43:028][893]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-18.01.43:040][893]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-18.01.43:040][893]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.01.43:094][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.01.43:098][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.02.01-18.01.43:179][895]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2020.02.01-18.01.43:838][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-18.01.43:945][987]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-18.01.43:968][987]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.01.43:969][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-18.01.43:969][987]PIE: New page: PIE session: Testing (Feb 1, 2020, 8:01:43 AM)
+[2020.02.01-18.01.43:969][987]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-18.01.43:973][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003970s)
+[2020.02.01-18.01.43:974][987]LogAIModule: Creating AISystem for world Testing
+[2020.02.01-18.01.43:974][987]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2020.02.01-18.01.43:974][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.005204s)
+[2020.02.01-18.01.44:018][987]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.02.01-18.01.44:025][987]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-18.01.44:043][987]LogInit: FAudioDevice initialized.
+[2020.02.01-18.01.44:052][987]LogLoad: Game class is 'Space_GM_C'
+[2020.02.01-18.01.44:054][987]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.02.01-13.01.44
+[2020.02.01-18.01.44:054][987]LogWorld: Bringing up level for play took: 0.001521
+[2020.02.01-18.01.44:055][987]LogOnline: OSS: Creating online subsystem instance for: :Context_104
+[2020.02.01-18.01.44:057][987]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Testing 0.309
+[2020.02.01-18.01.44:057][987]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.01.44:694][ 58]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.01.47:293][370]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.01.55:437][347]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.01.55:437][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.01.55:437][347]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-18.01.55:437][347]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-18.01.55:451][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-18.01.55:451][347]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.01.55:503][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.01.55:507][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.02.01-18.01.55:589][349]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2020.02.01-18.01.59:315][796]Cmd: SELECT NONE
+[2020.02.01-18.02.00:067][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-18.03.29:186][534]LogEditorTransaction: Undo Move Nodes
+[2020.02.01-18.05.09:760][557]BlueprintLog: New page: Compile Space_GM
+[2020.02.01-18.05.10:016][557]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.02.01-18.05.10:454][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Space_GM" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/Space_GM.uasset" SILENT=true
+[2020.02.01-18.05.10:479][599]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/Space_GMD108B1C94D46D0ECE83C0A94DFD77FC4.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/Space_GM.uasset'
+[2020.02.01-18.05.12:487][821]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-18.05.12:511][821]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.05.12:511][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-18.05.12:512][821]PIE: New page: PIE session: Testing (Feb 1, 2020, 8:05:12 AM)
+[2020.02.01-18.05.12:512][821]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-18.05.12:515][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003776s)
+[2020.02.01-18.05.12:516][821]LogAIModule: Creating AISystem for world Testing
+[2020.02.01-18.05.12:516][821]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2020.02.01-18.05.12:516][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.004797s)
+[2020.02.01-18.05.12:563][821]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.02.01-18.05.12:570][821]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-18.05.12:588][821]LogInit: FAudioDevice initialized.
+[2020.02.01-18.05.12:596][821]LogLoad: Game class is 'Space_GM_C'
+[2020.02.01-18.05.12:598][821]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.02.01-13.05.12
+[2020.02.01-18.05.12:598][821]LogWorld: Bringing up level for play took: 0.001934
+[2020.02.01-18.05.12:599][821]LogOnline: OSS: Creating online subsystem instance for: :Context_105
+[2020.02.01-18.05.12:600][821]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Testing 0.854
+[2020.02.01-18.05.12:601][821]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.05.14:339][ 25]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.05.16:282][258]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.05.19:115][598]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.05.19:941][697]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.05.19:941][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.05.19:941][697]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-18.05.19:941][697]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-18.05.19:952][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-18.05.19:952][697]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.05.19:999][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.05.20:003][697]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.02.01-18.05.20:086][699]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2020.02.01-18.05.20:829][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-18.05.20:903][797]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-18.05.20:927][797]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.05.20:927][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-18.05.20:927][797]PIE: New page: PIE session: Testing (Feb 1, 2020, 8:05:20 AM)
+[2020.02.01-18.05.20:927][797]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-18.05.20:931][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003915s)
+[2020.02.01-18.05.20:932][797]LogAIModule: Creating AISystem for world Testing
+[2020.02.01-18.05.20:932][797]LogPlayLevel: PIE: World Init took: (0.001108s)
+[2020.02.01-18.05.20:932][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.005120s)
+[2020.02.01-18.05.20:973][797]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.02.01-18.05.20:979][797]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-18.05.20:998][797]LogInit: FAudioDevice initialized.
+[2020.02.01-18.05.21:008][797]LogLoad: Game class is 'Space_GM_C'
+[2020.02.01-18.05.21:009][797]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.02.01-13.05.21
+[2020.02.01-18.05.21:010][797]LogWorld: Bringing up level for play took: 0.001535
+[2020.02.01-18.05.21:010][797]LogOnline: OSS: Creating online subsystem instance for: :Context_106
+[2020.02.01-18.05.21:012][797]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Testing -0.734
+[2020.02.01-18.05.21:012][797]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.05.21:662][869]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.05.24:119][164]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.05.26:945][503]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.05.27:620][584]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.05.27:638][586]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.05.27:638][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.05.27:638][586]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-18.05.27:638][586]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-18.05.27:652][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-18.05.27:652][586]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.05.27:700][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.05.27:705][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.02.01-18.05.27:790][588]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2020.02.01-18.05.28:382][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-18.05.28:456][668]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-18.05.28:480][668]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.05.28:480][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-18.05.28:480][668]PIE: New page: PIE session: Testing (Feb 1, 2020, 8:05:28 AM)
+[2020.02.01-18.05.28:480][668]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-18.05.28:484][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003879s)
+[2020.02.01-18.05.28:485][668]LogAIModule: Creating AISystem for world Testing
+[2020.02.01-18.05.28:485][668]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2020.02.01-18.05.28:486][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.004988s)
+[2020.02.01-18.05.28:528][668]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.02.01-18.05.28:534][668]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-18.05.28:550][668]LogInit: FAudioDevice initialized.
+[2020.02.01-18.05.28:559][668]LogLoad: Game class is 'Space_GM_C'
+[2020.02.01-18.05.28:560][668]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.02.01-13.05.28
+[2020.02.01-18.05.28:561][668]LogWorld: Bringing up level for play took: 0.001512
+[2020.02.01-18.05.28:561][668]LogOnline: OSS: Creating online subsystem instance for: :Context_107
+[2020.02.01-18.05.28:563][668]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Testing 0.817
+[2020.02.01-18.05.28:563][668]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.05.29:505][776]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.05.33:797][291]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.05.37:405][724]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.05.37:431][727]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.05.37:431][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.05.37:431][727]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-18.05.37:432][727]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-18.05.37:447][727]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-18.05.37:447][727]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.05.37:492][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.05.37:496][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.02.01-18.05.37:584][729]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2020.02.01-18.05.38:227][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-18.05.38:301][815]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-18.05.38:325][815]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.05.38:325][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-18.05.38:325][815]PIE: New page: PIE session: Testing (Feb 1, 2020, 8:05:38 AM)
+[2020.02.01-18.05.38:325][815]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-18.05.38:329][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004085s)
+[2020.02.01-18.05.38:330][815]LogAIModule: Creating AISystem for world Testing
+[2020.02.01-18.05.38:330][815]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2020.02.01-18.05.38:330][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.005276s)
+[2020.02.01-18.05.38:374][815]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.02.01-18.05.38:380][815]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-18.05.38:397][815]LogInit: FAudioDevice initialized.
+[2020.02.01-18.05.38:407][815]LogLoad: Game class is 'Space_GM_C'
+[2020.02.01-18.05.38:408][815]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.02.01-13.05.38
+[2020.02.01-18.05.38:410][815]LogWorld: Bringing up level for play took: 0.001558
+[2020.02.01-18.05.38:410][815]LogOnline: OSS: Creating online subsystem instance for: :Context_108
+[2020.02.01-18.05.38:412][815]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Testing 0.666
+[2020.02.01-18.05.38:412][815]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.05.39:462][936]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-18.05.43:029][364]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-18.05.45:663][680]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.05.45:663][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.05.45:663][680]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-18.05.45:663][680]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-18.05.45:674][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-18.05.45:674][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.05.45:723][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.05.45:727][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.02.01-18.05.45:816][682]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2020.02.01-18.05.52:244][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-18.05.55:633][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Space_GM" FILE="D:/SpaceCoop/SpaceCoop/Content/Blueprints/Space_GM.uasset" SILENT=true
+[2020.02.01-18.05.55:656][858]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/Space_GM1B2659AB41EE480E958143BEA730E0D9.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Blueprints/Space_GM.uasset'
+[2020.02.01-18.05.57:291][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.02.01-18.05.59:454][ 46]LogSlate: Window 'Save Content' being destroyed
+[2020.02.01-18.05.59:469][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Testing" FILE="D:/SpaceCoop/SpaceCoop/Content/Levels/Testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.01-18.05.59:514][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.02.01-18.05.59:765][ 46]LogSavePackage: Moving 'D:/SpaceCoop/SpaceCoop/Saved/Testing0FB37FEE4C6EB8FD536A4E91EE92AA1B.tmp' to 'D:/SpaceCoop/SpaceCoop/Content/Levels/Testing.umap'
+[2020.02.01-18.05.59:794][ 46]LogFileHelpers: Saving map 'Testing' took 0.324
+[2020.02.01-18.07.29:909][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-18.07.29:992][849]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-18.07.30:018][849]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.07.30:018][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-18.07.30:018][849]PIE: New page: PIE session: Testing (Feb 1, 2020, 8:07:30 AM)
+[2020.02.01-18.07.30:018][849]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-18.07.30:023][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004544s)
+[2020.02.01-18.07.30:024][849]LogAIModule: Creating AISystem for world Testing
+[2020.02.01-18.07.30:024][849]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2020.02.01-18.07.30:024][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.005801s)
+[2020.02.01-18.07.30:069][849]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.02.01-18.07.30:075][849]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-18.07.30:092][849]LogInit: FAudioDevice initialized.
+[2020.02.01-18.07.30:102][849]LogLoad: Game class is 'Space_GM_C'
+[2020.02.01-18.07.30:103][849]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.02.01-13.07.30
+[2020.02.01-18.07.30:104][849]LogWorld: Bringing up level for play took: 0.001621
+[2020.02.01-18.07.30:104][849]LogOnline: OSS: Creating online subsystem instance for: :Context_109
+[2020.02.01-18.07.30:106][849]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Testing 0.361
+[2020.02.01-18.07.30:107][849]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.07.30:934][943]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.07.31:434][  3]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.07.32:184][ 93]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.07.35:959][546]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-18.07.37:570][732]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-18.07.38:178][805]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-18.07.39:011][905]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-18.07.41:512][205]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-18.07.43:296][419]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.07.43:296][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.07.43:296][419]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-18.07.43:297][419]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-18.07.43:310][419]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-18.07.43:310][419]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-18.07.43:361][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.07.43:365][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.02.01-18.07.43:449][421]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2020.02.01-18.07.44:637][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-18.07.44:773][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.02.01-18.16.33:859][ 38]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.02.01-18.16.43:986][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-18.16.48:620][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.02.01-19.31.40:393][680]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-19.31.40:420][680]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-19.31.40:420][680]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-19.31.40:420][680]PIE: New page: PIE session: Testing (Feb 1, 2020, 9:31:40 AM)
+[2020.02.01-19.31.40:420][680]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-19.31.40:425][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004616s)
+[2020.02.01-19.31.40:426][680]LogAIModule: Creating AISystem for world Testing
+[2020.02.01-19.31.40:426][680]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2020.02.01-19.31.40:426][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.006010s)
+[2020.02.01-19.31.40:473][680]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.02.01-19.31.40:479][680]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-19.31.40:497][680]LogInit: FAudioDevice initialized.
+[2020.02.01-19.31.40:507][680]LogLoad: Game class is 'Space_GM_C'
+[2020.02.01-19.31.40:508][680]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.02.01-14.31.40
+[2020.02.01-19.31.40:509][680]LogWorld: Bringing up level for play took: 0.001666
+[2020.02.01-19.31.40:509][680]LogOnline: OSS: Creating online subsystem instance for: :Context_110
+[2020.02.01-19.31.40:511][680]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Testing 0.796
+[2020.02.01-19.31.40:511][680]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-19.31.43:525][ 36]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-19.31.46:484][391]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 2: Asteroid Steer Left
+[2020.02.01-19.31.47:551][519]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-19.31.49:409][742]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-19.31.49:492][752]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-19.31.51:417][983]LogBlueprintUserMessages: [SpaceShip_BP_2] Engine 1: Asteroid Steer Right
+[2020.02.01-19.31.53:936][285]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-19.31.53:936][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-19.31.53:936][285]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2020.02.01-19.31.53:936][285]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-19.31.53:962][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-19.31.53:962][285]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Levels/Testing.Testing_C' with ClassGeneratedBy '/Game/Levels/Testing.Testing:PersistentLevel.Testing'
+[2020.02.01-19.31.54:011][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-19.31.54:015][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.02.01-19.31.54:099][287]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2020.02.01-19.31.57:609][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-19.32.00:766][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.02.01-19.32.00:845][ 82]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-19.32.00:897][ 82]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.01-19.32.00:897][ 82]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-19.32.00:959][ 82]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.01-19.32.00:959][ 82]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-19.32.01:011][ 82]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.01-19.32.01:011][ 82]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-19.32.01:054][ 82]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.01-19.32.01:054][ 82]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-19.32.02:019][ 82]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-19.32.02:035][ 82]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-19.32.02:065][ 82]LogSlate: Window 'SpaceCoop - Unreal Editor' being destroyed
+[2020.02.01-19.32.02:168][ 83]Cmd: QUIT_EDITOR
+[2020.02.01-19.32.02:680][ 83]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.01-19.32.02:692][ 83]LogExit: Preparing to exit.
+[2020.02.01-19.32.03:200][ 83]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-19.32.03:204][ 83]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-19.32.03:206][ 83]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-19.32.03:209][ 83]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-19.32.03:213][ 83]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-19.32.03:216][ 83]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-19.32.03:220][ 83]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-19.32.03:223][ 83]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-19.32.03:276][ 83]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.02.01-19.32.03:285][ 83]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-19.32.03:285][ 83]LogExit: Editor shut down
+[2020.02.01-19.32.03:285][ 83]LogExit: Transaction tracking system shut down
+[2020.02.01-19.32.03:615][ 83]LogExit: Object subsystem successfully closed.
+[2020.02.01-19.32.03:643][ 83]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.01-19.32.03:654][ 83]LogModuleManager: Shutting down and abandoning module SequencerWidgets (680)
+[2020.02.01-19.32.03:654][ 83]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (678)
+[2020.02.01-19.32.03:654][ 83]LogModuleManager: Shutting down and abandoning module Voice (676)
+[2020.02.01-19.32.03:654][ 83]LogModuleManager: Shutting down and abandoning module BlueprintGraph (674)
+[2020.02.01-19.32.03:654][ 83]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (672)
+[2020.02.01-19.32.03:654][ 83]LogModuleManager: Shutting down and abandoning module SceneOutliner (670)
+[2020.02.01-19.32.03:654][ 83]LogModuleManager: Shutting down and abandoning module AddContentDialog (668)
+[2020.02.01-19.32.03:654][ 83]LogModuleManager: Shutting down and abandoning module WidgetCarousel (667)
+[2020.02.01-19.32.03:654][ 83]LogModuleManager: Shutting down and abandoning module EditorWidgets (664)
+[2020.02.01-19.32.03:654][ 83]LogModuleManager: Shutting down and abandoning module CollectionManager (662)
+[2020.02.01-19.32.03:654][ 83]LogModuleManager: Shutting down and abandoning module StatsViewer (660)
+[2020.02.01-19.32.03:654][ 83]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (658)
+[2020.02.01-19.32.03:654][ 83]LogModuleManager: Shutting down and abandoning module FoliageEdit (656)
+[2020.02.01-19.32.03:654][ 83]LogModuleManager: Shutting down and abandoning module LandscapeEditor (654)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module MeshPaintMode (652)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (650)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module ActorPickerMode (648)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module GeometryMode (646)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module TextureAlignMode (644)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module BspMode (642)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (640)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (638)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module AutomationWorker (636)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module OculusMR (634)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module HoudiniEngineEditor (632)
+[2020.02.01-19.32.03:655][ 83]LogHoudiniEngineEditor: Shutting down the Houdini Engine Editor module.
+[2020.02.01-19.32.03:655][ 83]LogHoudiniEngineEditor: Houdini Engine Editor module shutdown complete.
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (630)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (628)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (626)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module PlacementMode (625)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module MaterialEditor (624)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (620)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (618)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (616)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (614)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (612)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module WebMMedia (610)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (608)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (606)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module SequenceRecorder (605)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (602)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (600)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (598)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (596)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (594)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (592)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (590)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (588)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (586)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (584)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (582)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module CharacterAI (580)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module SmartSnapping (578)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module SessionServices (576)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module MeshPaint (574)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module ViewportSnapping (572)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module ViewportInteraction (570)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module ClothPainter (568)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (567)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module LogVisualizer (564)
+[2020.02.01-19.32.03:655][ 83]LogModuleManager: Shutting down and abandoning module IntroTutorials (562)
+[2020.02.01-19.32.03:656][ 83]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (561)
+[2020.02.01-19.32.03:656][ 83]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (558)
+[2020.02.01-19.32.03:656][ 83]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (556)
+[2020.02.01-19.32.03:656][ 83]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (554)
+[2020.02.01-19.32.03:656][ 83]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (552)
+[2020.02.01-19.32.03:656][ 83]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (551)
+[2020.02.01-19.32.05:162][ 83]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (548)
+[2020.02.01-19.32.05:162][ 83]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (546)
+[2020.02.01-19.32.05:162][ 83]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (544)
+[2020.02.01-19.32.05:162][ 83]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (542)
+[2020.02.01-19.32.05:162][ 83]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (540)
+[2020.02.01-19.32.05:162][ 83]LogModuleManager: Shutting down and abandoning module InputBindingEditor (538)
+[2020.02.01-19.32.05:163][ 83]LogModuleManager: Shutting down and abandoning module MergeActors (536)
+[2020.02.01-19.32.05:163][ 83]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (534)
+[2020.02.01-19.32.05:163][ 83]LogModuleManager: Shutting down and abandoning module LocalizationService (533)
+[2020.02.01-19.32.05:163][ 83]LogModuleManager: Shutting down and abandoning module HardwareTargeting (530)
+[2020.02.01-19.32.05:163][ 83]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (528)
+[2020.02.01-19.32.05:163][ 83]LogModuleManager: Shutting down and abandoning module UndoHistory (526)
+[2020.02.01-19.32.05:163][ 83]LogModuleManager: Shutting down and abandoning module XmlParser (524)
+[2020.02.01-19.32.05:163][ 83]LogModuleManager: Shutting down and abandoning module Blutility (522)
+[2020.02.01-19.32.05:163][ 83]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (520)
+[2020.02.01-19.32.05:163][ 83]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (519)
+[2020.02.01-19.32.05:163][ 83]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (516)
+[2020.02.01-19.32.05:163][ 83]LogModuleManager: Shutting down and abandoning module SettingsEditor (514)
+[2020.02.01-19.32.05:163][ 83]LogModuleManager: Shutting down and abandoning module ProjectLauncher (512)
+[2020.02.01-19.32.05:163][ 83]LogModuleManager: Shutting down and abandoning module SessionFrontend (510)
+[2020.02.01-19.32.05:163][ 83]LogModuleManager: Shutting down and abandoning module ProfilerClient (508)
+[2020.02.01-19.32.05:163][ 83]LogModuleManager: Shutting down and abandoning module DeviceManager (506)
+[2020.02.01-19.32.05:163][ 83]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (505)
+[2020.02.01-19.32.05:218][ 83]LogModuleManager: Shutting down and abandoning module AutomationController (502)
+[2020.02.01-19.32.05:218][ 83]LogModuleManager: Shutting down and abandoning module AutomationWindow (500)
+[2020.02.01-19.32.05:218][ 83]LogModuleManager: Shutting down and abandoning module Layers (498)
+[2020.02.01-19.32.05:218][ 83]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (496)
+[2020.02.01-19.32.05:218][ 83]LogModuleManager: Shutting down and abandoning module DetailCustomizations (494)
+[2020.02.01-19.32.05:218][ 83]LogModuleManager: Shutting down and abandoning module PackagesDialog (492)
+[2020.02.01-19.32.05:218][ 83]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (490)
+[2020.02.01-19.32.05:218][ 83]LogModuleManager: Shutting down and abandoning module Persona (488)
+[2020.02.01-19.32.05:218][ 83]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (487)
+[2020.02.01-19.32.05:218][ 83]LogModuleManager: Shutting down and abandoning module AnimGraph (485)
+[2020.02.01-19.32.05:218][ 83]LogModuleManager: Shutting down and abandoning module Kismet (482)
+[2020.02.01-19.32.05:229][ 83]LogModuleManager: Shutting down and abandoning module KismetWidgets (481)
+[2020.02.01-19.32.05:229][ 83]LogModuleManager: Shutting down and abandoning module GraphEditor (478)
+[2020.02.01-19.32.05:229][ 83]LogModuleManager: Shutting down and abandoning module StructViewer (476)
+[2020.02.01-19.32.05:229][ 83]LogModuleManager: Shutting down and abandoning module ClassViewer (474)
+[2020.02.01-19.32.05:230][ 83]LogModuleManager: Shutting down and abandoning module Toolbox (472)
+[2020.02.01-19.32.05:230][ 83]LogModuleManager: Shutting down and abandoning module ModuleUI (470)
+[2020.02.01-19.32.05:230][ 83]LogModuleManager: Shutting down and abandoning module MovieSceneTools (468)
+[2020.02.01-19.32.05:230][ 83]LogModuleManager: Shutting down and abandoning module OutputLog (466)
+[2020.02.01-19.32.05:232][ 83]LogModuleManager: Shutting down and abandoning module GammaUI (464)
+[2020.02.01-19.32.05:232][ 83]LogModuleManager: Shutting down and abandoning module Documentation (462)
+[2020.02.01-19.32.05:232][ 83]LogModuleManager: Shutting down and abandoning module LiveCoding (460)
+[2020.02.01-19.32.05:232][ 83]LogModuleManager: Shutting down and abandoning module LevelSequence (458)
+[2020.02.01-19.32.05:232][ 83]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (456)
+[2020.02.01-19.32.05:232][ 83]LogModuleManager: Shutting down and abandoning module MovieScene (454)
+[2020.02.01-19.32.05:232][ 83]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (452)
+[2020.02.01-19.32.05:232][ 83]LogModuleManager: Shutting down and abandoning module LauncherPlatform (450)
+[2020.02.01-19.32.05:232][ 83]LogModuleManager: Shutting down and abandoning module AnalyticsET (448)
+[2020.02.01-19.32.05:232][ 83]LogModuleManager: Shutting down and abandoning module PortalServices (446)
+[2020.02.01-19.32.05:232][ 83]LogModuleManager: Shutting down and abandoning module PortalRpc (444)
+[2020.02.01-19.32.05:232][ 83]LogModuleManager: Shutting down and abandoning module MessagingRpc (442)
+[2020.02.01-19.32.05:232][ 83]LogModuleManager: Shutting down and abandoning module AIModule (440)
+[2020.02.01-19.32.05:233][ 83]LogModuleManager: Shutting down and abandoning module GameplayDebugger (439)
+[2020.02.01-19.32.05:233][ 83]LogModuleManager: Shutting down and abandoning module AITestSuite (437)
+[2020.02.01-19.32.05:233][ 83]LogModuleManager: Shutting down and abandoning module NavigationSystem (435)
+[2020.02.01-19.32.05:233][ 83]LogModuleManager: Shutting down and abandoning module DesktopPlatform (432)
+[2020.02.01-19.32.05:233][ 83]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (430)
+[2020.02.01-19.32.05:235][ 83]LogModuleManager: Shutting down and abandoning module ProfilerService (428)
+[2020.02.01-19.32.05:289][ 83]LogModuleManager: Shutting down and abandoning module TaskGraph (426)
+[2020.02.01-19.32.05:289][ 83]LogModuleManager: Shutting down and abandoning module ScreenshotTools (424)
+[2020.02.01-19.32.05:289][ 83]LogModuleManager: Shutting down and abandoning module SteamVRController (422)
+[2020.02.01-19.32.05:289][ 83]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (420)
+[2020.02.01-19.32.05:289][ 83]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (418)
+[2020.02.01-19.32.05:289][ 83]LogModuleManager: Shutting down and abandoning module OculusEditor (416)
+[2020.02.01-19.32.05:289][ 83]LogModuleManager: Shutting down and abandoning module OculusInput (414)
+[2020.02.01-19.32.05:289][ 83]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (412)
+[2020.02.01-19.32.05:289][ 83]LogModuleManager: Shutting down and abandoning module HoudiniEngineRuntime (410)
+[2020.02.01-19.32.05:290][ 83]LogHoudiniEngine: Shutting down the Houdini Engine module.
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2020.02.01-19.32.05:290][ 83]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.02.01-19.32.05:291][ 83]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.02.01-19.32.05:392][ 83]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.02.01-19.32.05:492][ 83]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.02.01-19.32.05:492][ 83]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.02.01-19.32.05:492][ 83]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.02.01-19.32.05:492][ 83]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.02.01-19.32.05:492][ 83]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.02.01-19.32.05:492][ 83]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.01-19.32.05:492][ 83]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.02.01-19.32.05:492][ 83]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.02.01-19.32.05:492][ 83]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.02.01-19.32.05:492][ 83]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.02.01-19.32.05:492][ 83]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.02.01-19.32.05:492][ 83]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.02.01-19.32.05:492][ 83]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.02.01-19.32.05:493][ 83]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.02.01-19.32.05:493][ 83]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.02.01-19.32.05:493][ 83]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.02.01-19.32.05:493][ 83]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.02.01-19.32.05:493][ 83]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.02.01-19.32.05:495][ 83]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.02.01-19.32.05:496][ 83]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.02.01-19.32.05:496][ 83]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.02.01-19.32.05:496][ 83]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.02.01-19.32.05:496][ 83]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.02.01-19.32.05:496][ 83]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.02.01-19.32.05:498][ 83]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.02.01-19.32.05:499][ 83]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.02.01-19.32.05:499][ 83]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.02.01-19.32.05:499][ 83]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.02.01-19.32.05:499][ 83]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.02.01-19.32.05:499][ 83]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.02.01-19.32.05:500][ 83]LogDerivedDataCache: Shutdown
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.02.01-19.32.05:500][ 83]LogXGEController: Cleaning working directory: C:/Users/dandre24/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.02.01-19.32.05:500][ 83]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.02.01-19.32.05:501][ 83]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.02.01-19.32.05:501][ 83]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.02.01-19.32.05:501][ 83]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.02.01-19.32.05:501][ 83]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.02.01-19.32.05:501][ 83]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.02.01-19.32.05:502][ 83]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.02.01-19.32.05:502][ 83]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.02.01-19.32.05:502][ 83]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.02.01-19.32.05:503][ 83]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.02.01-19.32.05:511][ 83]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.02.01-19.32.05:511][ 83]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.02.01-19.32.05:512][ 83]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.02.01-19.32.05:512][ 83]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.02.01-19.32.05:544][ 83]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.02.01-19.32.05:544][ 83]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2020.02.01-19.32.05:544][ 83]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B548B98A8-488F-250C-3158-A4BE377FFA11%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=b2e2e8de4419e9af3432b3b38b89a75d%7C0ffe611c19f94894a84a9fb22575ba4e%7C71fa327f-b44a-4311-b5c6-d13c7ee70aaf&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.01-19.32.05:544][ 83]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B548B98A8-488F-250C-3158-A4BE377FFA11%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=b2e2e8de4419e9af3432b3b38b89a75d%7C0ffe611c19f94894a84a9fb22575ba4e%7C71fa327f-b44a-4311-b5c6-d13c7ee70aaf&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.01-19.32.05:551][ 83]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.02.01-19.32.05:552][ 83]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.02.01-19.32.05:553][ 83]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.02.01-19.32.05:553][ 83]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.02.01-19.32.05:553][ 83]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.02.01-19.32.05:554][ 83]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.02.01-19.32.05:554][ 83]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.02.01-19.32.05:554][ 83]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.02.01-19.32.05:554][ 83]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.01-19.32.05:555][ 83]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.01-19.32.05:555][ 83]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.01-19.32.05:555][ 83]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.01-19.32.05:555][ 83]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.01-19.32.05:555][ 83]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.01-19.32.05:555][ 83]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.01-19.32.05:557][ 83]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.01-19.32.05:557][ 83]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.01-19.32.05:557][ 83]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.01-19.32.05:557][ 83]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.01-19.32.05:557][ 83]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.01-19.32.05:557][ 83]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.01-19.32.05:557][ 83]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.01-19.32.05:557][ 83]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.01-19.32.05:557][ 83]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.01-19.32.05:557][ 83]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.01-19.32.05:557][ 83]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.01-19.32.05:557][ 83]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.01-19.32.05:559][ 83]LogD3D11RHI: Shutdown
+[2020.02.01-19.32.05:559][ 83]LogD3D11RHI: CleanupD3DDevice
+[2020.02.01-19.32.05:559][ 83]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.01-19.32.05:560][ 83]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.01-19.32.05:560][ 83]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.01-19.32.05:705][ 83]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.02.01-19.32.05:717][ 83]LogExit: Exiting.
+[2020.02.01-19.32.05:733][ 83]Log file closed, 02/01/20 14:32:05
